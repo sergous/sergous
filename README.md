@@ -1,29 +1,21 @@
-# Hey my Name is Niklas
+# Hey my Name is Sergei
 
 ## Programming is my passion as well as my job 
 
-#### Projects I'm proud of
+---
 
-1. Nikscript -- My own programming language [Link](https://n-ziermann.github.io/projects/nikscript.html) 
-2. Password Manager -- A secure password manager website that uses similar encryption algorithms to those used by LastPass [Link](https://niklasziermann.pythonanywhere.com/password)
-3. Pi-Deck -- An open source alternative to the Elgato Stream Deck based on the Raspberry Pi [Link](https://n-ziermann.github.io/projects/pi-deck.html)
+[![Harlok's WakaTime stats](https://github-readme-stats-phi-six-52.vercel.app/api/wakatime?username=sergous)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
-[![My github stats](https://github-readme-stats.vercel.app/api?username=n-ziermann&include_all_commits=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n-ziermann&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-phi-six-52.vercel.app/api/top-langs/?username=sergous&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
 #### Contact
 
-Email: 
 
-business@n-ziermann.com 
 
-Contact: 
+<a href="https://hihello.me/p/f9ae0350-40cc-4942-8ffd-071628460663?referer=email_signature" rel="noopener" noreferrer target="_blank" style="display: inline-block"><img alt="This is Sergei Smirnov's card. Their email is sergous@gmail.com. Their phone number is +1 949 375 2454." src="https://cdn.hihello.me/cards/f9ae0350-40cc-4942-8ffd-071628460663/signature_square.png?generated=1701596495903" width="360" style="display: inline-block; min-height: 100px" /></a>
 
-https://n-ziermann.com/contact
+[HiHello Contacts Card](https://t.ly/SlQov)
