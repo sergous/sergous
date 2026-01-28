@@ -4,16 +4,25 @@
 
 Founder, CTO, Lead Software Engineer, and Product Manager. In IT and software development since 2000. Built 6 effective SCRUM teams. Created 11 projects from idea to production implementation for big tech companies including Merck, Red Hat, IBM, and Google.
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/sergous)
+[!["Sergous Site"](https://github.com/user-attachments/assets/69b0d5cd-2d67-40c9-8421-14605d2246cb)](https://sergous.space)
 
-# Stats
+## Algola Metrics
+<img 
+    src="https://algora.io/og/user/sergous"
+    alt="Algora developer metrics showing real-time activity and contributions"
+    className="w-full h-auto"
+    width={800}
+    height={300}
+    loading="lazy"
+/>
 
+## Rank
 ![Sergous's GitHub stats](https://sergous-github-readme-stats.vercel.app/api?username=sergous&show_icons=true&theme=ambient_gradient)
 
-#### Yearly coding activity
-<img alt="WakaStats Year" src="https://wakatime.com/share/@Sergous/b6dcd095-5c07-4662-b041-d48f9af29e18.png" width="700" />
+## WakaStats  
 
-    
+### Coding activity
+
 <table>
 <tr>
 <td>
@@ -24,3 +33,8 @@ Founder, CTO, Lead Software Engineer, and Product Manager. In IT and software de
 </td>
 </tr>
 </table>
+
+<img alt="WakaStats Year" src="https://wakatime.com/share/@Sergous/b6dcd095-5c07-4662-b041-d48f9af29e18.png" width="700" />
+
+## Contribute
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/sergous)
