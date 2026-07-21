@@ -4,7 +4,7 @@
 
 Founder, CTO, Lead Software Engineer, and Product Manager. In IT and software development since 2000. Built 6 effective SCRUM teams. Created 11 projects from idea to production implementation for big tech companies including Merck, Red Hat, IBM, and Google.
 
-[!["Sergous Site"](https://github.com/user-attachments/assets/69b0d5cd-2d67-40c9-8421-14605d2246cb)](https://sergous.space)
+[!["Sergous Site"](https://github.com/user-attachments/assets/1cfceb13-ed35-46ec-8d06-bfc4739359a9)](https://sergous.space)
 
 ## Algola Metrics
 <img 
