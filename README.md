@@ -1,8 +1,10 @@
-# Hey my Name is Sergei
+# Hi, I’m Sergous 👋
 
-> Programming is my passion as well as my job 
+> I turn complex ideas into reliable software products.
 
-Founder, CTO, Lead Software Engineer, and Product Manager. In IT and software development since 2000. Built 6 effective SCRUM teams. Created 11 projects from idea to production implementation for big tech companies including Merck, Red Hat, IBM, and Google.
+Founder, CTO, Lead Software Engineer, and Product Manager with 25+ years in IT and software development.
+
+I’ve built and led six high-performing Scrum teams and delivered 11 products from initial idea to production. My experience includes work with organizations such as Merck, Red Hat, IBM, and Google.
 
 [!["Sergous Site"](https://github.com/user-attachments/assets/1cfceb13-ed35-46ec-8d06-bfc4739359a9)](https://sergous.space)
 
